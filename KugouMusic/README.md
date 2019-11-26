@@ -4,8 +4,8 @@
 ## 依赖包：lxml， requests
 ### 安装方法：
 在终端机内输入:  
-pip install requests  
+'pip install requests'  
 下载安装visual C++  
 再输入：  
-pip install lxml
+'pip install lxml'
 
